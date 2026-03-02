@@ -1,5 +1,0 @@
-Hello my name is MinuJin
-I'm interested in	system programming
-and kernel
-
-I love blue bird
